@@ -1,3 +1,12 @@
+# About Stock Portfolio Dashboard Application 
+This app allows user to see a breakdown of stocks and cryptocurrency. It will go through a multitude of changes and the roadmap below highlights what you can expect at each version. 
+
+# Product Roadmap
+MVP - The application should be able to connect to an API and recieve the data of the market with the layout of the application completed
+v1 - Application should have the relevant charts related to the stock performance portfolio 
+
+Future Versions - Coming Soon 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
